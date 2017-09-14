@@ -1,3 +1,12 @@
-# My Awesome Book
+# 오픈소스 책자 만들기
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](/assets/396.jpg)
+
+* 안녕하세요 CBA조 오픈소스 책자 만들기 프로젝트입니다~!
+
+* **팀장** : 박경덕
+
+* **팀원** : 박예진, 서지원, 이승빈, 정민균 
+
+
+
