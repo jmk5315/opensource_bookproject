@@ -7,5 +7,5 @@
 * [4. figure](4.md)
 * [5. contemporary](5.md)
 * [6. future](6.md)
-* [7. QNA](7.md)
+* [7. FAQ](7.md)
 
